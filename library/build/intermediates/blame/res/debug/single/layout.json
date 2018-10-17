@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\block_canary_display_leak.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\blockcanary-android-1.5.0.aar\\b54ad6db62ef18a7f717e7ea1bdb7113\\res\\layout\\block_canary_display_leak.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar_include.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\singlepick.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\singlepick.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\default_item_city.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\default_item_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bar_fragment.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\activity_bar_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\block_canary_ref_row.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\blockcanary-android-1.5.0.aar\\b54ad6db62ef18a7f717e7ea1bdb7113\\res\\layout\\block_canary_ref_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\block_canary_block_row.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\blockcanary-android-1.5.0.aar\\b54ad6db62ef18a7f717e7ea1bdb7113\\res\\layout\\block_canary_block_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\block_canary_ref_top_row.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\blockcanary-android-1.5.0.aar\\b54ad6db62ef18a7f717e7ea1bdb7113\\res\\layout\\block_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pop_citypicker.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\pop_citypicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\widget_toolbar.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\widget_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base_web.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\activity_base_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7031712ffd760bb16c33adf9fc994de4\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\activity_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipe.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\layout\\activity_swipe.xml"
+    }
+]

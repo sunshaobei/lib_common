@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\interpolator\\mtrl_linear.xml"
+    }
+]

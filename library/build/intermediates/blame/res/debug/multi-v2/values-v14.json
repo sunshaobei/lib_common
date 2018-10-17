@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\blockcanary-android-1.5.0.aar\\b54ad6db62ef18a7f717e7ea1bdb7113\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "140"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\blockcanary-android-1.5.0.aar\\b54ad6db62ef18a7f717e7ea1bdb7113\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "140"
+                    }
+                }
+            ]
+        }
+    ]
+}

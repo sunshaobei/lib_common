@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_circle.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button_background.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_bg.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\loading_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_sigh.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\whrite_boom_corners_bg.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\whrite_boom_corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\success_circle.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\whrite_top_corners_bg.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\whrite_top_corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\sliding_back_shadow.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\sliding_back_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\17a0a17191e4ded20aa01dbcac3f31cf\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_background.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\whrite_dialogcorners_bg.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\whrite_dialogcorners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\error_center_x.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d94b7b4d56d6a75df750e3c53ee57ce7\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\error_circle.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_button_background.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\success_bow.xml",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\drawable\\success_bow.xml"
+    }
+]

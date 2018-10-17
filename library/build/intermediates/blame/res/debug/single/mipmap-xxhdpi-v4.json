@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\rl_arrow_up.png",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\mipmap-xxhdpi\\rl_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\leak_canary_icon.png",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\mipmap-xxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_edittext_delete.png",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\mipmap-xxhdpi\\ic_edittext_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_back.png",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\mipmap-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\rl_arrow_down.png",
+        "source": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\src\\main\\res\\mipmap-xxhdpi\\rl_arrow_down.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\leak_canary_icon_foreground.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\11fca759a367bee9927f8e5c0a055a8e\\res\\drawable-anydpi-v21\\leak_canary_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunsh\\Desktop\\yuguo\\Demo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\sunsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\49973da503de0118c2b6195794b4ea3f\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]
