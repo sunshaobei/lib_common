@@ -24,25 +24,36 @@ import android.view.SurfaceView;
 import android.view.View;
 import android.webkit.WebView;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import java.util.Stack;
+
+import static com.sunsh.baselibrary.widgets.swipeback.RunninState.CREATED;
+import static com.sunsh.baselibrary.widgets.swipeback.RunninState.PAUSED;
+import static com.sunsh.baselibrary.widgets.swipeback.RunninState.RESUMED;
+import static com.sunsh.baselibrary.widgets.swipeback.RunninState.SAVE_INSTANCE_STATE;
+import static com.sunsh.baselibrary.widgets.swipeback.RunninState.STARTED;
+import static com.sunsh.baselibrary.widgets.swipeback.RunninState.STOPPED;
 
 
 /**
  * Created by sunsh on 2018/5/29.
  */
-public class SwipeBackManager implements Application.ActivityLifecycleCallbacks {
-    private static final SwipeBackManager sInstance = new SwipeBackManager();
+public class StackManager implements Application.ActivityLifecycleCallbacks {
+
+    private static final StackManager sInstance = new StackManager();
     private Stack<Activity> mActivityStack = new Stack<>();
+    private Map<Activity, RunninState> appRunningStateHelper = new HashMap<>();
     private Set<Class<? extends View>> mProblemViewClassSet = new HashSet<>();
 
-    public static SwipeBackManager getInstance() {
+    public static StackManager getInstance() {
         return sInstance;
     }
 
-    private SwipeBackManager() {
+    private StackManager() {
     }
 
     public void init(Application application, List<Class<? extends View>> problemViewClassList) {
@@ -58,31 +69,38 @@ public class SwipeBackManager implements Application.ActivityLifecycleCallbacks 
     @Override
     public void onActivityCreated(Activity activity, Bundle savedInstanceState) {
         mActivityStack.add(activity);
+        appRunningStateHelper.put(activity, CREATED);
     }
 
     @Override
     public void onActivityStarted(Activity activity) {
+        appRunningStateHelper.put(activity, STARTED);
     }
 
     @Override
     public void onActivityResumed(Activity activity) {
+        appRunningStateHelper.put(activity, RESUMED);
     }
 
     @Override
     public void onActivityPaused(Activity activity) {
+        appRunningStateHelper.put(activity, PAUSED);
     }
 
     @Override
     public void onActivityStopped(Activity activity) {
+        appRunningStateHelper.put(activity, STOPPED);
     }
 
     @Override
     public void onActivitySaveInstanceState(Activity activity, Bundle outState) {
+        appRunningStateHelper.put(activity, SAVE_INSTANCE_STATE);
     }
 
     @Override
     public void onActivityDestroyed(Activity activity) {
         mActivityStack.remove(activity);
+        appRunningStateHelper.remove(activity);
     }
 
     /**
@@ -113,8 +131,23 @@ public class SwipeBackManager implements Application.ActivityLifecycleCallbacks 
         return activity;
     }
 
+    /**
+     * 获取当前activity
+     *
+     * @return
+     */
     public Activity getCurrentActivity() {
         return mActivityStack.get(mActivityStack.size() - 1);
+    }
+
+    public boolean appIsForground() {
+        int liveCount = 0;
+        for (Map.Entry<Activity, RunninState> entry : appRunningStateHelper.entrySet()) {
+            if (entry.getValue().equals(STARTED) || entry.getValue().equals(RESUMED)) {
+                liveCount += 1;
+            }
+        }
+        return liveCount == 0;
     }
 
     /**

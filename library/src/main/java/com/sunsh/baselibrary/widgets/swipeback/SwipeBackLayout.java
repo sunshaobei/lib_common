@@ -296,7 +296,7 @@ public class SwipeBackLayout extends ViewGroup {
      * @return
      */
     private boolean isSwipeBackEnable() {
-        return mSwipeBackEnable && SwipeBackManager.getInstance().isSwipeBackEnable();
+        return mSwipeBackEnable && StackManager.getInstance().isSwipeBackEnable();
     }
 
     /**

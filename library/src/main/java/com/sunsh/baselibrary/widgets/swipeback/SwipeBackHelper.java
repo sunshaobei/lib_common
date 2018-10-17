@@ -47,7 +47,7 @@ public class SwipeBackHelper {
      *                             目前在库中已经添加了 WebView 和 SurfaceView
      */
     public static void init(Application application, List<Class<? extends View>> problemViewClassList) {
-        SwipeBackManager.getInstance().init(application, problemViewClassList);
+        StackManager.getInstance().init(application, problemViewClassList);
     }
 
     /**

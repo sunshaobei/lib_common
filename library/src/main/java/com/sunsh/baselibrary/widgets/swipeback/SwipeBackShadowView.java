@@ -123,7 +123,7 @@ class SwipeBackShadowView extends FrameLayout {
         }
 
         if (mPreActivity == null) {
-            Activity preActivity = SwipeBackManager.getInstance().getPenultimateActivity(mActivity);
+            Activity preActivity = StackManager.getInstance().getPenultimateActivity(mActivity);
             if (preActivity != null) {
                 mPreActivity = new WeakReference<>(preActivity);
                 mPreDecorView = (ViewGroup) preActivity.findViewById(android.R.id.content);
@@ -203,7 +203,7 @@ class SwipeBackShadowView extends FrameLayout {
         View childView;
         for (int i = 0; i < childCount; i++) {
             childView = viewGroup.getChildAt(i);
-            if (SwipeBackManager.getInstance().isProblemView(childView)) {
+            if (StackManager.getInstance().isProblemView(childView)) {
                 return true;
             } else if (childView instanceof ViewGroup) {
                 if (containsProblemView((ViewGroup) childView)) {
@@ -240,7 +240,7 @@ class SwipeBackShadowView extends FrameLayout {
 
     private void onPanelSlide(Activity currentActivity, float slideOffset) {
         try {
-            Activity preActivity = SwipeBackManager.getInstance().getPenultimateActivity(currentActivity);
+            Activity preActivity = StackManager.getInstance().getPenultimateActivity(currentActivity);
             if (preActivity != null) {
                 View decorView = preActivity.getWindow().getDecorView();
                 ViewCompat.setTranslationX(decorView, -decorView.getMeasuredWidth() * (1 - WE_CHAT_STYLE_MAX_OFFSET) * (1 - slideOffset));
@@ -266,7 +266,7 @@ class SwipeBackShadowView extends FrameLayout {
 
     private void onPanelClosed(Activity currentActivity) {
         try {
-            Activity preActivity = SwipeBackManager.getInstance().getPenultimateActivity(currentActivity);
+            Activity preActivity = StackManager.getInstance().getPenultimateActivity(currentActivity);
             if (preActivity != null) {
                 View decorView = preActivity.getWindow().getDecorView();
                 ViewCompat.setTranslationX(decorView, 0);
